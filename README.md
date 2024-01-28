@@ -8,7 +8,9 @@ The American Sign Language (ASL) is a visual-gestural language used by deaf and 
 
 ## Dataset
 
-The ASL Alphabet dataset used in this project consists of images representing hand gestures for each letter of the English alphabet and additional symbols. The dataset is divided into training, validation, and test sets.
+The ASL Alphabet dataset used in this project consists of images representing hand gestures for each letter of the English alphabet and additional symbols. The dataset is divided into training, validation, and test sets. Was imported to google colab notebook through kaggle api. 
+
+Access the dataset link: [click here](https://www.kaggle.com/datasets/grassknoted/asl-alphabet )
 
 ## Model Architecture
 
@@ -79,7 +81,4 @@ Feature maps are visualized to understand the learned representations at differe
 - Matplotlib
 - NumPy
 
-## Usage
-
-1. Clone the repository:
 
